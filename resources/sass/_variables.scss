@@ -1,0 +1,21 @@
+$main-font: 'Sk-Modernist';
+$duration: 0.3s;
+
+
+
+
+$green: #83F1AA;
+$grey: #474747;
+$black: #000;
+
+$text-color: $black;
+$body-bg: #F5F3EC;
+
+$container-inner-width: 1016px;
+$container-padding-x: 24px;
+$container-padding-x-tablet: 24px;
+$container-padding-x-mobile: 24px;
+
+$container-max-width: calc(#{$container-inner-width} + 2*#{$container-padding-x});
+$tablet-max-width: 1023px;
+$mobile-max-width: 767px;
